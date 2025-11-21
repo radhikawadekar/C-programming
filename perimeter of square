@@ -1,0 +1,6 @@
+r=int (input("enter the length of square:"))
+def area(a):
+    return 4*a
+print("perimeter of square:",area(r))
+
+perimeter(a)
