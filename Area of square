@@ -1,0 +1,6 @@
+r=int (input("enter the length of square:"))
+def area(a):
+    return a*a
+print("area of square:",area(r))
+
+area(r)
