@@ -1,0 +1,6 @@
+ef temp():
+ c=int(input("Enter a temperature:"))
+ f=1.8+32
+ return f
+print(temp())
+      
