@@ -1,0 +1,8 @@
+num =[1,2,3,4,5,6,7,8,9,10]
+import statistics as np
+a=np.mean(num)
+b=np.median(num)
+c=np.mode(num)
+print("The mean is:",a)
+print("The median is:",b)
+print("The mode is:",c)
